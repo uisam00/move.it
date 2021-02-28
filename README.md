@@ -74,7 +74,7 @@
 
 <br>
 
-<h3>🧭 Running the application</h3>
+<h3>🧭 Rodando a aplicação</h3>
 
 <br>
 
